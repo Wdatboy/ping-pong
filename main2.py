@@ -139,3 +139,16 @@ while not game_over:
             pad_x, pad_y = 25, w_height // 2 - w_height // 6
             pad2_x, pad2_y = 940, w_height // 2 - w_height // 6
             sleep(2)
+# # Описание проекта `(project description)`
+# # Русский
+# Этот проект создаёт телеграмм бота, который выводит вам погоду через сайт world-weather.ru и переводит.
+# # English
+# This project creates a telegram bot that displays the weather for you through the world-weather.ru website and translates it.
+# # Установка библиотек `(install libraries)`
+# `pip install pytelegrambotapi`
+#
+# `pip install beautifulsoup4`
+#
+# `pip install requests`
+#
+# `pip install googletrans==3.1.0a0`
