@@ -7,5 +7,7 @@
                                                                           рис. 2
 ![image](https://user-images.githubusercontent.com/119732398/226709183-606377b7-a165-4224-b1ee-b4288d9f61df.png)
                                                                           рис. 3
+![image](https://user-images.githubusercontent.com/119732398/226709523-50a221fa-2613-46e4-a387-3e28bedb6d3c.png)
+                                                                          рис. 4
 # Установка библиотек `(install libraries)`
 `pip install pygame`
